@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Support icon">
+  <path d="M12 30C12 19 21 10 32 10C43 10 52 19 52 30V44H40V32H52" fill="none" stroke="#39c6ff" stroke-width="3"/>
+  <rect x="8" y="28" width="8" height="18" rx="3" fill="#71ffd4"/>
+  <rect x="48" y="28" width="8" height="18" rx="3" fill="#71ffd4"/>
+  <path d="M26 48H38" stroke="#39c6ff" stroke-width="3" stroke-linecap="round"/>
+</svg>

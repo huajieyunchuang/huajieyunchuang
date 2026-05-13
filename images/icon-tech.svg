@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Technology services icon">
+  <rect x="10" y="10" width="44" height="44" rx="8" fill="#071a38" stroke="#39c6ff" stroke-width="3"/>
+  <path d="M22 22H42V42H22Z" fill="none" stroke="#71ffd4" stroke-width="2"/>
+  <path d="M32 14V22M32 42V50M14 32H22M42 32H50" stroke="#71ffd4" stroke-width="2"/>
+  <circle cx="32" cy="32" r="4" fill="#39c6ff"/>
+</svg>

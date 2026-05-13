@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="News icon">
+  <rect x="10" y="10" width="44" height="44" rx="6" fill="#071a38" stroke="#39c6ff" stroke-width="3"/>
+  <path d="M18 22H46M18 30H46M18 38H34" stroke="#71ffd4" stroke-width="3" stroke-linecap="round"/>
+  <rect x="38" y="35" width="8" height="8" fill="#39c6ff"/>
+</svg>

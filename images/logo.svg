@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-label="Huajie Yunchuang logo">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#39c6ff"/>
+      <stop offset="1" stop-color="#71ffd4"/>
+    </linearGradient>
+  </defs>
+  <rect x="12" y="12" width="196" height="196" rx="42" fill="#031126" stroke="url(#g1)" stroke-width="8"/>
+  <path d="M54 148L92 72H120L84 148H54Z" fill="url(#g1)"/>
+  <path d="M112 72H138V124C138 136 146 144 158 144H166V148H142C125 148 112 135 112 118V72Z" fill="#dbf6ff"/>
+  <circle cx="168" cy="78" r="12" fill="url(#g1)"/>
+</svg>
